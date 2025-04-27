@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ruonan Zheng"
 author_profile: true
 redirect_from: 
   - /about/
